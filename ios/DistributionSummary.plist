@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iRecorder.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>100</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A8D0293E1A9FCD9B2C121CF60C04D587115FCD01</string>
+				<key>dateExpires</key>
+				<string>2023/12/21</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>3W8W96N3XL.com.grgbanking.irecorder</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>3W8W96N3XL</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>iRecorder.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9ba8e562-722c-4414-873f-98a512a67e3e</string>
+				<key>dateExpires</key>
+				<string>2022/12/28</string>
+				<key>name</key>
+				<string>test</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>3W8W96N3XL</string>
+				<key>name</key>
+				<string>first liu</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
